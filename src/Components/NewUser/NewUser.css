@@ -1,0 +1,9 @@
+.new-user {
+  background-color: white;
+  margin: 5rem auto 0 auto;
+  width: 45rem;
+  max-width: 95%;
+  border-radius: 12px;
+  display: flex;
+  padding: 1rem;
+}
